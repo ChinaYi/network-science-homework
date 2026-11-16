@@ -1,0 +1,37 @@
+[
+  {
+    "n": 9,
+    "m": 8,
+    "path": 3.33333333333333,
+    "diameter": 8,
+    "status": "exactly_matches_networkx"
+  },
+  {
+    "n": 12,
+    "m": 12,
+    "path": 3.27272727272727,
+    "diameter": 6,
+    "status": "exactly_matches_networkx"
+  },
+  {
+    "n": 8,
+    "m": 28,
+    "path": 1.0,
+    "diameter": 1,
+    "status": "exactly_matches_networkx"
+  },
+  {
+    "n": 34,
+    "m": 78,
+    "path": 2.40819964349376,
+    "diameter": 5,
+    "status": "exactly_matches_networkx"
+  },
+  {
+    "n": 80,
+    "m": 472,
+    "path": 2.00158227848101,
+    "diameter": 3,
+    "status": "exactly_matches_networkx"
+  }
+]

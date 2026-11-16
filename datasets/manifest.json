@@ -1,0 +1,26 @@
+[
+  {
+    "downloaded_utc": "2026-11-16T02:53:01.950155+00:00",
+    "filename": "ca-GrQc.txt.gz",
+    "url": "https://snap.stanford.edu/data/ca-GrQc.txt.gz",
+    "source_page": "https://snap.stanford.edu/data/ca-GrQc.html",
+    "bytes": 109261,
+    "sha256": "a254442cdf5d684712578b630c2e0d7543518ab154ef2341cabb607572ce7230"
+  },
+  {
+    "downloaded_utc": "2026-11-16T02:53:03.538531+00:00",
+    "filename": "email-Eu-core.txt.gz",
+    "url": "https://snap.stanford.edu/data/email-Eu-core.txt.gz",
+    "source_page": "https://snap.stanford.edu/data/email-Eu-core.html",
+    "bytes": 79754,
+    "sha256": "4b47acdb80197b085fe63c819c357ae488131ee904ed93d1b219a68b0f9e245f"
+  },
+  {
+    "downloaded_utc": "2026-11-16T02:53:04.448698+00:00",
+    "filename": "email-Eu-core-department-labels.txt.gz",
+    "url": "https://snap.stanford.edu/data/email-Eu-core-department-labels.txt.gz",
+    "source_page": "https://snap.stanford.edu/data/email-Eu-core.html",
+    "bytes": 2663,
+    "sha256": "e5abe5b4581a480032a63adcf2576c161785f45692642c6ebb0b1276f0f33669"
+  }
+]
